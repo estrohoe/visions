@@ -1,0 +1,43 @@
+{
+    "tomb":{
+        "alias":"tomb",
+        "ver":"0.6.0",
+        "src":"https://codeberg.org/basil/tomb/releases/download/v0.6.0-beta/tomb.zip"
+    },
+
+    "the-coffin-of-andrew-and-renee":{
+        "alias":["tcoaar", "the-coffin-of-andrew-and-renee", "the coffin of andrew and renee", "renee", "hagmod"],
+        "ver":null,
+        "src":"https://github.com/PomPomSqL/The-Coffin-of-Andrew-and-Renee/archive/refs/heads/main.zip"
+    },
+
+    "the-coffin-of-nina":{
+        "alias":["tcon", "the-coffin-of-nina", "the coffin of nina", "nina"],
+        "ver":null,
+        "src":null
+    },
+
+    "the-coffin-of-candy-scabs":{
+        "alias":["tcocs", "the-coffin-of-candy-scabs", "the coffin of candy scabs", "candy scabs", "candy-scabs", "candyscabs", "cs"],
+        "ver":null,
+        "src":"https://github.com/Mr-Archive/The-Coffin-of-Candy-Scabs/archive/refs/heads/main.zip"
+    },
+
+    "visual-coffin":{
+        "alias":["visualcoffin", "visual-coffin", "visual coffin"],
+        "ver":"1.4.0",
+        "src":"https://gamebanana.com/dl/1357004"
+    },
+
+    "square-of-andy-and-leyley":{
+        "alias":["soaal,", "square-of-andy-and-leyley", "square of andy and leyley", "square", "squareaspectratio", "square-aspect-ratio", "square aspect ratio"],
+        "ver":"1.0.0",
+        "src":"https://gamebanana.com/dl/1220932"
+    },
+
+    "the-coffin-of-andy-and-lili":{
+        "alias":["the-coffin-of-andy-and-lili", "the coffin of andy and lili", "lili", "cali", "lilimod", "calimod"],
+        "ver":null,
+        "src":"https://files.catbox.moe/y07z4z.rar"
+    }
+}
